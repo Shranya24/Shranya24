@@ -55,22 +55,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shranya24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=00C9FF&text_color=ffffff" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shranya24&theme=radical&hide_border=true&background=0D1117&ring=8E54E9&fire=FF6B6B&currStreakLabel=00C9FF" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shranya24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=ffffff" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shranya24&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C9FF&line=FF6B6B&point=8E54E9" alt="Activity Graph"/>
-</p>
-
----
 
 
 <p align="center"><i>✨ "Bridging the gap between silicon and intelligence, one project at a time." ✨</i></p>
