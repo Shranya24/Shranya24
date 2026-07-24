@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Embedded%20C-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/-FPGA-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/-Xilinx%20Vivado-crimson?style=flat-square"/>
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white"/>
 </p>
@@ -43,8 +42,7 @@
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+
 </p>
 
 **Tools**
@@ -53,7 +51,6 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
 </p>
 
 ---
