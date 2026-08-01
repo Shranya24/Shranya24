@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF6B6B,8E54E9,00C9FF&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering;Digital+Design+%7C+Verilog+%7C+FPGA;Machine+Learning+%7C+AI+Enthusiast;Building+Cool+Embedded+%2B+AI+Projects&repeat=true" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=FF6B6B&label=Profile%20Views&query=count&url=https://api.countapi.xyz/hit/Shranya24/readme&style=for-the-badge"/>
-</p>
-
 ---
 
 ### 🚀 About Me
