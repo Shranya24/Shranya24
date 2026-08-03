@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=220&section=header&text=Hi%20There,%20I'm%20Shranya%20Thakur%20🐠&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20B.Tech%20ECE%20Student%20|%20Embedded%20Systems%20×%20AI/ML&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,35:EC4899,70:60A5FA,100:38BDF8&height=220&section=header&text=Hi%20There,%20I'm%20Shranya%20Thakur%20&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20B.Tech%20ECE%20Student%20|%20Embedded%20Systems%20×%20AI/ML&descAlignY=58&descSize=18"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=7F7FD5&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering;Digital+Design+%7C+Verilog+%7C+FPGA;Machine+Learning+%7C+Embedded+AI;Building+Hardware+that+thinks;Turning+ideas+into+circuits+and+code" alt="Typing SVG" />
